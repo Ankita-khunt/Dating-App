@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "526748495348",
+    "project_id": "dating-7ddbf",
+    "storage_bucket": "dating-7ddbf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526748495348:android:ff4ccc821aa496ee8a5da1",
+        "android_client_info": {
+          "package_name": "com.himmer.dating"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkXbL2VojobDtYx2pRAIwyjAgB1GVjweQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,8 @@
+<svg fill="none" height="14" viewBox="0 0 14 14" width="14" xmlns="http://www.w3.org/2000/svg">
+    <path d="M2.92 1L1 2.77778L7.24 13L13 2.77778L11.08 1H7H2.92Z" stroke="#202226"
+        stroke-linecap="square" stroke-linejoin="bevel" />
+    <path d="M6.25 1.375L4.75 2.875L7 12.25" stroke="#202226" stroke-linecap="square"
+        stroke-linejoin="bevel" />
+    <path d="M7.75 1.375L9.25 2.875L7.375 12.25" stroke="#202226" stroke-linecap="square"
+        stroke-linejoin="bevel" />
+</svg>
